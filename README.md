@@ -1,16 +1,15 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **[Your Name]**, a passionate **[Your Role, e.g., Frontend Engineer, Full-Stack Developer, Data Scientist]** with **[Number of Years of Experience]** years of experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other developers.
+Welcome to my GitHub profile! I'm **Majek**, a **Software Engineer** with **3** years of experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other engineers.
 
 ---
 
 ## 🌟 About Me
 
-- 🎯 **Current Focus:** [Brief description of what you're currently working on or learning, e.g., mastering React or building real-time forex trading tools.]
-- 👯 **Open to Collaborate On:** [What kind of projects you're open to collaborating on.]
-- 💡 **My Tech Interests:** [A short list of technologies or fields you're interested in, e.g., Machine Learning, DevOps, Automation.]
-- 📚 **Learning Journey:** [List specific topics you're exploring, e.g., "Currently diving into Next.js and performance optimization."]
-- ⚡ **Fun Fact:** [Something unique or quirky about you, e.g., "I can write code faster than I can make coffee! ☕"]
+- 🎯 **Current Focus:** Mastering Java and Python
+- 👯 **Open to Collaborate On:** Software that is aimed at solving problems
+- 💡 **My Tech Interests:** DevOps, Automation, Software Testing....
+- ⚡ **Fun Fact:** "I can write code faster than I can make coffee! ☕"
 
 ---
 
@@ -20,6 +19,7 @@ Welcome to my GitHub profile! I'm **[Your Name]**, a passionate **[Your Role, e.
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 
 ### Frontend Development:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -42,39 +42,13 @@ Welcome to my GitHub profile! I'm **[Your Name]**, a passionate **[Your Role, e.
 
 ---
 
-## 🚀 My Projects
-
-### 🔥 Featured Projects
-- **[Project Name 1](#):** [Short description of the project, e.g., A Next.js app that analyzes bank statements and categorizes expenses.]
-  - Tech Stack: [React, Tailwind CSS, Next.js]
-  - [Live Demo](#) | [Source Code](#)
-
-- **[Project Name 2](#):** [Short description of the project, e.g., An AI-powered tool to connect users with pro bono lawyers.]
-  - Tech Stack: [Python, FastAPI, MongoDB]
-  - [Live Demo](#) | [Source Code](#)
-
----
-
-## 📊 GitHub Stats
-
-### 🌟 My GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-### 🔥 Streak Stats:
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
-
-### 🚀 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
 ## 🌐 Let's Connect!
 
-- **Portfolio:** [yourportfolio.com](#)
-- **LinkedIn:** [linkedin.com/in/YourUsername](#)
-- **Twitter:** [twitter.com/YourUsername](#)
-- **Email:** [YourEmail@example.com](#)
+- **Portfolio:** https://majek-dev.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/majek-olamilekan
+- **Email:** majekgarb@gmail.com
 
 ---
 
-### 💡 "Strive not to be a success, but rather to be of value." – Albert Einstein
+### 💡 "Enjoy your achievements as well as your plans. Keep interested in your own career, however humble; it is a real possession in the changing fortunes of time." – Max Ehrmann
+
