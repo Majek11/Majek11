@@ -45,8 +45,6 @@ Welcome to my GitHub profile! I'm **Majek**, a **Software Engineer** with **3** 
 ---
 
 ## 🌐 Let's Connect!
-
-- **Portfolio:** https://majek-dev.vercel.app
 - **LinkedIn:** https://www.linkedin.com/in/majek-olamilekan
 - **Email:** majekgarb@gmail.com
 
