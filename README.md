@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Majek**, a **Software Engineer** with **3** years of experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other engineers.
+Welcome to my GitHub profile! I'm **Majek**, a **Software Engineer** with **5** years of experience in building innovative and impactful software solutions. I enjoy solving complex problems, learning new technologies, and collaborating with other engineers.
 
 ---
 
